@@ -1,2 +1,2 @@
 # electronJS
-A demo for electronJS application
+An application to work around MFT.

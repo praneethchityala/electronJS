@@ -1,0 +1,24 @@
+{
+  "name": "electronjs",
+  "version": "1.0.0",
+  "description": "A demo for electronJS application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praneethchityala/electronJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praneethchityala/electronJS/issues"
+  },
+  "homepage": "https://github.com/praneethchityala/electronJS#readme",
+  "devDependencies": {
+    "electron": "^25.1.0",
+    "electron-packager": "^17.1.1"
+  }
+}
